@@ -1,0 +1,3 @@
+C:\Hekaton\Intelligent-Search\lab01.1-computer_vision\resources\code\Finished-ImageProcessing\TestCLI\bin\Debug\TestCLI.exe -process C:\Temp\LearnAI-Bootcamp-master\lab01.1-computer_vision\resources\sample_images
+
+TestCLI.exe -query "select * from images"
