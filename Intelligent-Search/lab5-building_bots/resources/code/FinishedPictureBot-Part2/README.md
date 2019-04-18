@@ -1,1 +1,0 @@
-At the bottom of PictureBot.cs, you need to add your Azure Search service name, key, and index name.
